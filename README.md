@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-Olá me chamo Leandro da Silva Oliveira, sou do squad BrasilCap, juntamente com a Lider de esquadrão Karina, atualmente trabalhando no projeto BBPAY como backend!
+Olá me chamo Leandro da Silva Oliveira, sou do squad BrasilCap, juntamente com o Lider de esquadrão Henry, atualmente trabalhando no projeto BBPAY como backend!
 </p>
 
 <p align="left">
